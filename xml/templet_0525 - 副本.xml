@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<body>
+	<frame FrameId='1' IntervalTime='25' CommunicationType='0' Channel='0' ImageType='0' Height='3' Width='5'>
+		<Data>
+			<Line1>
+				<d11>10</d11>
+				<d12>20</d12>
+				<d13>30</d13>
+				<d14>40</d14>
+				<d15>50</d15>
+			</Line1>
+			<Line2>
+				<d21>21</d21>
+				<d22>22</d22>
+				<d23>23</d23>
+				<d24>24</d24>
+				<d25>25</d25>
+			</Line2>
+			<Line3>
+				<d31>31</d31>
+				<d32>32</d32>
+				<d33>33</d33>
+				<d34>34</d34>
+				<d35>35</d35>
+			</Line3>
+		</Data>
+	</frame>
+	<frame FrameId='2' IntervalTime='25' CommunicationType='0' Channel='0' ImageType='0' Height='3' Width='5'>
+		<Data>
+			<Line1>
+				<d11>10</d11>
+				<d12>20</d12>
+				<d13>30</d13>
+				<d14>40</d14>
+				<d15>50</d15>
+			</Line1>
+			<Line2>
+				<d21>21</d21>
+				<d22>22</d22>
+				<d23>23</d23>
+				<d24>24</d24>
+				<d25>25</d25>
+			</Line2>
+			<Line3>
+				<d31>31</d31>
+				<d32>32</d32>
+				<d33>33</d33>
+				<d34>34</d34>
+				<d35>35</d35>
+			</Line3>
+		</Data>
+	</frame>
+</body>

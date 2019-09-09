@@ -1,0 +1,1 @@
+cmd_/home/wsj/code/test/kmodule/chrdev/chrdev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wsj/code/test/kmodule/chrdev/chrdev.ko /home/wsj/code/test/kmodule/chrdev/chrdev.o /home/wsj/code/test/kmodule/chrdev/chrdev.mod.o ;  true

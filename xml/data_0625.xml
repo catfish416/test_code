@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<body>
+	<frame FrameId="1" IntervalTime="2000" CommunicationType="0" Channel="0" ImageType="0" Height="1" Width="12">
+		<Data X1Y1="5" X1Y2="10" X1Y3="15" X1Y4="20" X1Y5="25" X1Y6="30" X1Y7="0" X1Y8="0" X1Y9="0" X1Y10="0" X1Y11="0" X1Y12="0"/>
+	</frame>
+	<frame FrameId="2" IntervalTime="2000" CommunicationType="0" Channel="0" ImageType="0" Height="1" Width="12">
+		<Data X1Y1="0" X1Y2="0" X1Y3="0" X1Y4="0" X1Y5="0" X1Y6="0" X1Y7="5" X1Y8="10" X1Y9="15" X1Y10="20" X1Y11="25" X1Y12="30"/>
+	</frame>
+</body>

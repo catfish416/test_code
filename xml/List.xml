@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<List><Person Id="1001" Name="Tsybius" Sex="Male" Age="23"><Achievement>ABC Rank 2</Achievement><Achievement>DEF Rank 4</Achievement></Person><Person Id="1002" Name="Galatea" Sex="Female" Age="21"><Achievement>ABC Rank 1</Achievement><Achievement>XYZ Rank 2</Achievement><Achievement>MNOP Rank 5</Achievement></Person></List>

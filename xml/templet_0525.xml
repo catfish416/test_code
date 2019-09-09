@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<body>
+	<frame FrameId='1' IntervalTime='25' CommunicationType='0' Channel='0' ImageType='0' Height='3' Width='5'>
+		<Data
+			d11='10' d12='20' d13='30' d14='40' d15='50'
+			d21='21' d22='22' d23='23' d24='24' d25='25'
+			d31='31' d32='32' d33='33' d34='34' d35='35'>
+		</Data>
+	</frame>
+	<frame FrameId='2' IntervalTime='25' CommunicationType='0' Channel='0' ImageType='0' Height='3' Width='5'>
+		<Data
+			d11='10' d12='20' d13='30' d14='40' d15='50'
+			d21='21' d22='22' d23='23' d24='24' d25='25'
+			d31='31' d32='32' d33='33' d34='34' d35='35'>
+		</Data>
+	</frame>
+</body>
