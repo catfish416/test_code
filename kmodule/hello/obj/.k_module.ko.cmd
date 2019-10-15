@@ -1,1 +1,0 @@
-cmd_/home/wsj/code/test/kmodule/hello/k_module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wsj/code/test/kmodule/hello/k_module.ko /home/wsj/code/test/kmodule/hello/k_module.o /home/wsj/code/test/kmodule/hello/k_module.mod.o ;  true
