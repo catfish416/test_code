@@ -2,7 +2,6 @@ MODULE_NAME = ttt
 obj-m := $(MODULE_NAME).o
 CURRENT_PATH := $(shell pwd)
 LINUX_KERNEL := $(shell uname -r)
-#LINUX_KERNEL_PATH := /usr/src/linux-headers-4.10.0-28-generic
 LINUX_KERNEL_PATH := /usr/src/linux-headers-$(LINUX_KERNEL)
 #LINUX_KERNEL_PATH := /home/wsj/share/code/nxp_git_code/kernel/linux
 #ARCH:=arm
